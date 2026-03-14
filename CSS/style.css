@@ -220,6 +220,10 @@ footer {
     backdrop-filter: blur(10px);
 }
 
+.active {
+    color: #c084ff;
+}
+
 @media (max-width: 1024px) {
     .home-grid {
         grid-template-columns: 1fr;
